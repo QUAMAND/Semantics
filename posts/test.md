@@ -1,8 +1,8 @@
 ---
-id: main
+id: test
 title: 환영합니다
 category: 기초
-preview: main
+preview: test
 ---
 
 ---
